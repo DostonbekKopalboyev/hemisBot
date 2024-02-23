@@ -1,2 +1,0 @@
-# hemisBot
-this is bot 
